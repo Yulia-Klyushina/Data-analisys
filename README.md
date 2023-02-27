@@ -1,6 +1,6 @@
 # data-analysis
-All data analysis projects
-Project "PROGRAMMING LANGUAGES TRENDS IN IT INDUSTRY"
+
+**Project "PROGRAMMING LANGUAGES TRENDS IN IT INDUSTRY"**
 
 Identify insights and trends on emerging skills; 
 Answer the questions:
@@ -9,7 +9,7 @@ Answer the questions:
 • What are the most popular IDEs?
 • Demographic data like gender and age distribution of developers.
 
-METHODOLOGY
+**METHODOLOGY**
 1. Collecting data from various sources including:
 • Job postings
 • Training portals
@@ -24,4 +24,4 @@ METHODOLOGY
 • Outliers
 • Correlation
 5. Visualization using charts, plots, and histograms
-6.Creating dashboard and presentation
+6.Creating [dashboard](https://public.tableau.com/app/profile/yulia6509/viz/Futuretechnologyusage/PROGRAMMINGLANGUAGESTRENDSINITINDUSTRY) and [presentation](https://drive.google.com/file/d/1VKXTiacuFAmDA0n9UfjkgZol4MMxqGFN/view?usp=share_link)
